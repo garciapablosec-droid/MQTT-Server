@@ -42,6 +42,7 @@ En tu pom.xml:
    <artifactId>org.eclipse.paho.client.mqttv3</artifactId>
    <version>1.2.5</version>
 </dependency>
+
 ### 4. Ejecutar el código Java
 
 Ejecuta el archivo SistemaIot.java para enviar datos simulados a Mosquitto.
